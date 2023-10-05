@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @NotAmigo
-- 👀 I’m interested in studying on FIITUrFU
+Yandex Cloud Go Dev
 
 <!---
 NotAmigo/NotAmigo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
